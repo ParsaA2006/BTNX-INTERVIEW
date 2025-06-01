@@ -810,7 +810,6 @@
 /Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/scopedcss/projectbundle/BTNXProfileApp.bundle.scp.css
 /Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/blazor.build.boot-extension.json
 /Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/blazor.boot.json
-/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/hhlwaoselu-8rbvw3on5j.gz
 /Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/f0v3wyc9y4-c07563zm6h.gz
 /Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/3x4l6j1gy2-bqjiyaj88i.gz
 /Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/zcfi1mfwid-c2jlpeoesf.gz
@@ -1094,10 +1093,11 @@
 /Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/hlz9jd5cgb-krp2q25ggl.gz
 /Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/om9x2t3mgu-nac254jq09.gz
 /Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/18gfjw7463-25907k314f.gz
-/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/bin/Debug/net9.0/wwwroot/_framework/BTNXProfileApp.wuvpuqkg7p.pdb
-/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/bin/Debug/net9.0/wwwroot/_framework/BTNXProfileApp.0ec3s0d9q7.wasm
-/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/bin/Debug/net9.0/wwwroot/_framework/BTNXProfileApp.0ec3s0d9q7.wasm.gz
-/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/bin/Debug/net9.0/wwwroot/_framework/BTNXProfileApp.wuvpuqkg7p.pdb.gz
-/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/782qdwi8ht-0ec3s0d9q7.gz
-/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/z4uya1p5k5-wuvpuqkg7p.gz
-/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/if6zkrwpld-sis2e8hvga.gz
+/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/bin/Debug/net9.0/wwwroot/_framework/BTNXProfileApp.e87trj6q84.pdb
+/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/bin/Debug/net9.0/wwwroot/_framework/BTNXProfileApp.v7i27losrj.wasm
+/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/bin/Debug/net9.0/wwwroot/_framework/BTNXProfileApp.v7i27losrj.wasm.gz
+/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/bin/Debug/net9.0/wwwroot/_framework/BTNXProfileApp.e87trj6q84.pdb.gz
+/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/hhlwaoselu-oorzuq3vzp.gz
+/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/782qdwi8ht-v7i27losrj.gz
+/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/z4uya1p5k5-e87trj6q84.gz
+/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/obj/Debug/net9.0/compressed/if6zkrwpld-sr5ct4ek20.gz

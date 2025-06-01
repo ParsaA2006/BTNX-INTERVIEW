@@ -7,17 +7,17 @@ h1:focus {
 }
 
 a, .btn-link {
-    color: #0071c1;
+    color: #006400; /* Darker green for links */
 }
 
 .btn-primary {
-    color: #fff;
-    background-color: #1b6ec2;
-    border-color: #1861ac;
+    color: #fff; /* White text */
+    background-color: #90EE90; /* Light green background */
+    border-color: #7CBA7C; /* Slightly darker green border */
 }
 
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
-  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #90EE90; /* Adjust focus box shadow to light green */
 }
 
 .content {
@@ -25,7 +25,7 @@ a, .btn-link {
 }
 
 .valid.modified:not([type=checkbox]) {
-    outline: 1px solid #26b050;
+    outline: 1px solid #26b050; /* Keep validation green */
 }
 
 .invalid {
@@ -84,7 +84,7 @@ a, .btn-link {
     }
 
         .loading-progress circle:last-child {
-            stroke: #1b6ec2;
+            stroke: #1b6ec2; /* Keep loading spinner blue for contrast */
             stroke-dasharray: calc(3.141 * var(--blazor-load-percentage, 0%) * 0.8), 500%;
             transition: stroke-dasharray 0.05s ease-in-out;
         }
@@ -101,7 +101,7 @@ a, .btn-link {
     }
 
 code {
-    color: #c02d76;
+    color: #c02d76; /* Keep code color */
 }
 
 .form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
@@ -129,7 +129,7 @@ code {
 }
 
 .nav-link {
-    color: #fff; /* White text for nav links */
+    color: #90EE90; /* Light green text for nav links */
     margin: 5px 0; /* Add some vertical margin */
     border: 1px solid #333; /* Subtle border */
     border-radius: 4px; /* Slightly rounded corners */
@@ -145,9 +145,9 @@ code {
 }
 
 .nav-link.active {
-    background-color: #555; /* Highlight active link */
-    color: #fff; /* White text for active link */
-    border-color: #777;
+    background-color: #90EE90 !important; /* Light green background for active link, using !important */
+    color: #000 !important; /* Black text for active link for contrast */
+    border-color: #7CBA7C !important; /* Light green border for active link */
 }
 
 /* General page content improvements */
@@ -158,3 +158,5 @@ code {
 .card {
     transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for hover */
 }
+
+/* Remove hover effect */
