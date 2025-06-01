@@ -16,6 +16,11 @@ a, .btn-link {
     border-color: #7CBA7C; /* Slightly darker green border */
 }
 
+.btn-primary:hover {
+    background-color: #7CBA7C; /* Darker green on hover */
+    border-color: #6A9C6A; /* Even darker border on hover */
+}
+
 .btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
   box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #90EE90; /* Adjust focus box shadow to light green */
 }
@@ -160,3 +165,23 @@ code {
 }
 
 /* Remove hover effect */
+
+/* Style for the secondary button (Cancel) */
+.btn-secondary {
+    color: #000; /* Black text */
+    background-color: #fff; /* White background */
+    border-color: #90EE90; /* Light green border */
+}
+
+.btn-secondary:hover {
+    color: #fff; /* White text on hover */
+    background-color: #7CBA7C; /* Slightly darker green background on hover */
+    border-color: #6A9C6A; /* Even darker green border on hover */
+}
+
+/* Style for the logo */
+.app-logo {
+    height: 50px; /* Adjust height as needed */
+    margin-right: 10px; /* Add some space to the right of the logo */
+    vertical-align: middle; /* Align with text if any */
+}

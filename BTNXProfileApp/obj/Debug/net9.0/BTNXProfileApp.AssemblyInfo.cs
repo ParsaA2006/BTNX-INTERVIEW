@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BTNXProfileApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b49bf31607e8d225b0c9a94bb0ffdb987a03ea56")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c892f4b5543527b2e9618fbbde6315a864e868ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("BTNXProfileApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BTNXProfileApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

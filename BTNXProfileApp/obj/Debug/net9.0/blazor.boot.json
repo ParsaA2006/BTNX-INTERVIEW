@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BTNXProfileApp",
   "resources": {
-    "hash": "sha256-54RGDKdpirPg/SuQ/eESN9qBmSBkp92AWEtmeaMXSE8=",
+    "hash": "sha256-al8LYlN9Lq48t6QPFqSEM12Od9YITcWqIVGhp6xEzxI=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.da83xzpz5r.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.vmzb2angnn.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -205,8 +205,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "BTNXProfileApp.v7i27losrj.wasm": "BTNXProfileApp.wasm",
-      "BTNXProfileApp.e87trj6q84.pdb": "BTNXProfileApp.pdb"
+      "BTNXProfileApp.jwur53j61r.wasm": "BTNXProfileApp.wasm",
+      "BTNXProfileApp.21dm8rd5pk.pdb": "BTNXProfileApp.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.1p93gcv9fh.js": "sha256-1UPiprzN3JhPftx3be7XEMaYlUN+chRF41CuttiWVtQ="
@@ -420,10 +420,10 @@
       "WindowsBase.ag32297siy.wasm": "sha256-BgyZxTgdU9rIYlNC9ZMiMjnvBAJSL0eQH8Y87o1M+q4=",
       "mscorlib.vt9pwshhot.wasm": "sha256-/aFxOaPc1iTNlJw0z4/RGEMD0nzl4qVE3SF4wMsLgp0=",
       "netstandard.or41gtprh3.wasm": "sha256-nD1KqAI5YYz+YohqHaZ5EmXi7Eq9Uy9sUknnI8sj1AM=",
-      "BTNXProfileApp.v7i27losrj.wasm": "sha256-RdyboxQhD6SX/T3WXys9lxIYmQUDjIqsfx7VKmfsE0I="
+      "BTNXProfileApp.jwur53j61r.wasm": "sha256-M5ZkZHTZWys58cjeP7+oc9w88I7lD/ZZhbhWB5LGZpc="
     },
     "pdb": {
-      "BTNXProfileApp.e87trj6q84.pdb": "sha256-3tAHXb7WIlE2w3gLlxIp1pPj2NM1m/yLMkT5XdwsQ4U="
+      "BTNXProfileApp.21dm8rd5pk.pdb": "sha256-dk9Qq1igcgMR8oMWRse+uH5j7GSOGAR5bIUaiMSLhwg="
     }
   },
   "cacheBootResources": true,

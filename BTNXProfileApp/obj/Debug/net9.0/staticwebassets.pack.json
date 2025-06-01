@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets/BTNXProfileApp.styles.css"
     },
     {
+      "Id": "/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/wwwroot/Assets/BTNX_logo_full_colour.png",
+      "PackagePath": "staticwebassets/Assets/BTNX_logo_full_colour.png"
+    },
+    {
       "Id": "/Users/parsaahmadi/Documents/btnx final/BTNXProfileApp/wwwroot/css/app.css",
       "PackagePath": "staticwebassets/css/app.css"
     },

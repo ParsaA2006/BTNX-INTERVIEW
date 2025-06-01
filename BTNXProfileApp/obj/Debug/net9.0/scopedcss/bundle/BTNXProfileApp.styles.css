@@ -160,3 +160,32 @@ main[b-jhktmuamph] {
         overflow-y: auto;
     }
 }
+
+
+    .navbar-dark[b-pu2gjlv7q6] {
+        background-color: #2ecc71 !important;
+    }
+
+    .nav-scrollable[b-pu2gjlv7q6] {
+        background-color: #27ae60 !important;
+    }
+
+    .nav-link[b-pu2gjlv7q6] {
+        color: white !important;
+        transition: all 0.3s ease;
+    }
+
+    .nav-link:hover[b-pu2gjlv7q6] {
+        background-color: #1abc9c !important;
+        color: white !important;
+        transform: translateX(5px);
+    }
+
+    .navbar-brand[b-pu2gjlv7q6] {
+        color: white !important;
+        font-weight: bold;
+    }
+
+    .oi[b-pu2gjlv7q6] {
+        color: white !important;
+    }

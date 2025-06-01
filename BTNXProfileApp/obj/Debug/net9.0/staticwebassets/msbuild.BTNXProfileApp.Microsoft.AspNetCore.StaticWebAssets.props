@@ -1,5 +1,23 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\BTNX_logo_full_colour.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>BTNXProfileApp</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>/</BasePath>
+      <RelativePath>Assets/BTNX_logo_full_colour.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>h0mfcbhw0k</Fingerprint>
+      <Integrity>McXLsk/rNK1X2fEvzI8A/8UigltWhWvftz9L78bHMgU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Assets\BTNX_logo_full_colour.png'))</OriginalItemSpec>
+    </StaticWebAsset>
     <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BTNXProfileApp.styles.css'))">
       <SourceType>Package</SourceType>
       <SourceId>BTNXProfileApp</SourceId>
@@ -12,8 +30,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName>ScopedCss</AssetTraitName>
       <AssetTraitValue>ApplicationBundle</AssetTraitValue>
-      <Fingerprint>ikvmw73ni0</Fingerprint>
-      <Integrity>rir6zCc9pQjtIwVP4fauhgJ4fnVY1g9O/sNfG1S4qbE=</Integrity>
+      <Fingerprint>ojx0rogy0j</Fingerprint>
+      <Integrity>LHuqDe+Daqe495RunbOvw+d52BGjxQ2Rrjqdl1pVlNw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\BTNXProfileApp.styles.css'))</OriginalItemSpec>
@@ -30,8 +48,8 @@
       <RelatedAsset></RelatedAsset>
       <AssetTraitName></AssetTraitName>
       <AssetTraitValue></AssetTraitValue>
-      <Fingerprint>oorzuq3vzp</Fingerprint>
-      <Integrity>GBNDjC0lxTidliztQRF3amBvfP4U6M6ihL+FoOo7vTY=</Integrity>
+      <Fingerprint>afez5b7zay</Fingerprint>
+      <Integrity>xpR8QAwO5MxcLhol4ExGDOvGJxqF6lKtkoiYhfzyWV8=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\app.css'))</OriginalItemSpec>
