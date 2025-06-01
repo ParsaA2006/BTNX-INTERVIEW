@@ -1,25 +1,43 @@
+using System.Net.Http.Json;
 using BTNXProfileApp.Models;
 
 namespace BTNXProfileApp.Services;
 
 public class ProfileService
 {
-    private Profile _currentProfile = new Profile
-    {
-        Id = 1,
-        FirstName = "John",
-        LastName = "Doe",
-        Email = "john.doe@example.com",
-        PhoneNumber = "123-456-7890"
-    };
+    private readonly HttpClient _httpClient;
 
-    public Profile GetProfile()
+    public ProfileService(HttpClient httpClient)
     {
-        return _currentProfile;
+        _httpClient = httpClient;
     }
 
-    public void UpdateProfile(Profile profile)
+    public async Task<Profile?> GetProfileAsync()
     {
-        _currentProfile = profile;
+        try
+        {
+            var profile = await _httpClient.GetFromJsonAsync<Profile>("api/profile");
+            return profile;
+        }
+        catch (HttpRequestException e)
+        {
+            Console.WriteLine($"Error fetching profile: {e.Message}");
+            return null;
+        }
+    }
+
+    public async Task<bool> UpdateProfileAsync(Profile profile)
+    {
+        try
+        {
+            var response = await _httpClient.PostAsJsonAsync("api/profile", profile);
+            response.EnsureSuccessStatusCode();
+            return true;
+        }
+        catch (HttpRequestException e)
+        {
+            Console.WriteLine($"Error updating profile: {e.Message}");
+            return false;
+        }
     }
 } 

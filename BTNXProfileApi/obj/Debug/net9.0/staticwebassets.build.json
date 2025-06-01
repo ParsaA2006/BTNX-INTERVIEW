@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "wJy1vh3vcuQ/pM609PxikVa+JD1ZC4T6OxEaD76YwQA=",
+  "Source": "BTNXProfileApi",
+  "BasePath": "_content/BTNXProfileApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

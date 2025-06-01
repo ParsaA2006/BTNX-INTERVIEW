@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "BTNXProfileApp",
   "resources": {
-    "hash": "sha256-tbZKj2s/zY3bmq6x/vZGMs9lxFOZ1CXQuGLZQxsz3tQ=",
+    "hash": "sha256-bxmLa+9ucO2QWe5P50Hx8C1PVLjkUkWg7pKcPV6Vzjg=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.da83xzpz5r.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.vmzb2angnn.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -16,12 +16,16 @@
       "Microsoft.Extensions.Configuration.Json.d1nka2rlr8.wasm": "Microsoft.Extensions.Configuration.Json.wasm",
       "Microsoft.Extensions.DependencyInjection.b4d8qm7pau.wasm": "Microsoft.Extensions.DependencyInjection.wasm",
       "Microsoft.Extensions.DependencyInjection.Abstractions.auqecwqpl6.wasm": "Microsoft.Extensions.DependencyInjection.Abstractions.wasm",
+      "Microsoft.Extensions.Diagnostics.3dggcz3f5g.wasm": "Microsoft.Extensions.Diagnostics.wasm",
+      "Microsoft.Extensions.Diagnostics.Abstractions.krp2q25ggl.wasm": "Microsoft.Extensions.Diagnostics.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Abstractions.kqqw7ug7ce.wasm": "Microsoft.Extensions.FileProviders.Abstractions.wasm",
       "Microsoft.Extensions.FileProviders.Physical.mh53tttw45.wasm": "Microsoft.Extensions.FileProviders.Physical.wasm",
       "Microsoft.Extensions.FileSystemGlobbing.0i562wdyma.wasm": "Microsoft.Extensions.FileSystemGlobbing.wasm",
+      "Microsoft.Extensions.Http.nac254jq09.wasm": "Microsoft.Extensions.Http.wasm",
       "Microsoft.Extensions.Logging.96umgmlbmk.wasm": "Microsoft.Extensions.Logging.wasm",
       "Microsoft.Extensions.Logging.Abstractions.l8y69abh7s.wasm": "Microsoft.Extensions.Logging.Abstractions.wasm",
       "Microsoft.Extensions.Options.83qdyvwc4v.wasm": "Microsoft.Extensions.Options.wasm",
+      "Microsoft.Extensions.Options.ConfigurationExtensions.25907k314f.wasm": "Microsoft.Extensions.Options.ConfigurationExtensions.wasm",
       "Microsoft.Extensions.Primitives.j8wpr8jzql.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.fehvqxd8e9.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.lao5cp8gqq.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
@@ -201,8 +205,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "BTNXProfileApp.ftn3vehl83.wasm": "BTNXProfileApp.wasm",
-      "BTNXProfileApp.x95moqn2or.pdb": "BTNXProfileApp.pdb"
+      "BTNXProfileApp.0ec3s0d9q7.wasm": "BTNXProfileApp.wasm",
+      "BTNXProfileApp.wuvpuqkg7p.pdb": "BTNXProfileApp.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.1p93gcv9fh.js": "sha256-1UPiprzN3JhPftx3be7XEMaYlUN+chRF41CuttiWVtQ="
@@ -236,12 +240,16 @@
       "Microsoft.Extensions.Configuration.Json.d1nka2rlr8.wasm": "sha256-X8yu6Be+ZHHzhDFDdP9RXu+aMsQKscEedJsYUzy2QII=",
       "Microsoft.Extensions.DependencyInjection.b4d8qm7pau.wasm": "sha256-lemV4Or052KZxgSAj3apn5nNQywSyUWl+2Fan98Bl+4=",
       "Microsoft.Extensions.DependencyInjection.Abstractions.auqecwqpl6.wasm": "sha256-npQU9Z8aEiXs0oV0uIqqHDN/aChnciTYfWzbp9IfY/w=",
+      "Microsoft.Extensions.Diagnostics.3dggcz3f5g.wasm": "sha256-156LhXAYvHMyt3ZzK9IAfqAlTFyB7YXVJ/QGM31hggs=",
+      "Microsoft.Extensions.Diagnostics.Abstractions.krp2q25ggl.wasm": "sha256-8OA0nUv53l8IFeCTYWz0u2o5/PGbV4JeB8oSn+q16tI=",
       "Microsoft.Extensions.FileProviders.Abstractions.kqqw7ug7ce.wasm": "sha256-XK4yjhBp9ksL7h6/ebqAR1HCPn2J3GpEbf9c57HcAI8=",
       "Microsoft.Extensions.FileProviders.Physical.mh53tttw45.wasm": "sha256-it/ygGigzRU3ywKNWGR0Gl2nsIrJWHV/HC4P5v37uQk=",
       "Microsoft.Extensions.FileSystemGlobbing.0i562wdyma.wasm": "sha256-qIytzULqOsu5wQ9kRbESlZbqf91VCam4aH1AEY0B8dI=",
+      "Microsoft.Extensions.Http.nac254jq09.wasm": "sha256-vw+BtWX7li0ZyL0mpz9BapSo6oVbTU3WhQ7XUvXempU=",
       "Microsoft.Extensions.Logging.96umgmlbmk.wasm": "sha256-QXqjRpmXblZV5MMeJZFa3Mu4tE3kl+4rj0IQLUagaqk=",
       "Microsoft.Extensions.Logging.Abstractions.l8y69abh7s.wasm": "sha256-KwwLdtp/WV66kdUDadHqq/t2a1K37aZTZfQ9dXMZHwI=",
       "Microsoft.Extensions.Options.83qdyvwc4v.wasm": "sha256-rPwXGCJV2b2qbHrWMZjOHUDtmkMjf5M9ecjgbq3vlCc=",
+      "Microsoft.Extensions.Options.ConfigurationExtensions.25907k314f.wasm": "sha256-RtVzoDULKaRIx4ZUMwAiCoPKWTGLHuEZzczPlfPFzlc=",
       "Microsoft.Extensions.Primitives.j8wpr8jzql.wasm": "sha256-c3q6DqetjnVCASwVQf1HEJPSXiGtOzmzRbNsXrQRnpw=",
       "Microsoft.JSInterop.fehvqxd8e9.wasm": "sha256-KUgYboUywTiNc2KAn4+PwXUpsvPc+qyNcWlyUHCiuUA=",
       "Microsoft.JSInterop.WebAssembly.lao5cp8gqq.wasm": "sha256-w+WvmTYZ9xv2XDrEoF7buW47/o7dUeKdnYWKUgyFEkU=",
@@ -412,10 +420,10 @@
       "WindowsBase.ag32297siy.wasm": "sha256-BgyZxTgdU9rIYlNC9ZMiMjnvBAJSL0eQH8Y87o1M+q4=",
       "mscorlib.vt9pwshhot.wasm": "sha256-/aFxOaPc1iTNlJw0z4/RGEMD0nzl4qVE3SF4wMsLgp0=",
       "netstandard.or41gtprh3.wasm": "sha256-nD1KqAI5YYz+YohqHaZ5EmXi7Eq9Uy9sUknnI8sj1AM=",
-      "BTNXProfileApp.ftn3vehl83.wasm": "sha256-rZ3Oqc2nQHWceEGRstKyn8sPFMa4dce0hDp+8ab8sWs="
+      "BTNXProfileApp.0ec3s0d9q7.wasm": "sha256-eA1K8K6I4SRTrwWv+rKR2vq8Fj7pAJGTv3EGZ2mS+g4="
     },
     "pdb": {
-      "BTNXProfileApp.x95moqn2or.pdb": "sha256-NXQ2UEPIYbNgAxZKTnN2RfTGs3gxSNV9IhGgvcaAG6I="
+      "BTNXProfileApp.wuvpuqkg7p.pdb": "sha256-eMyLSU3npGnsVw4AcfU3am18B9Q0ZZgSHREVluc3s1Q="
     }
   },
   "cacheBootResources": true,
